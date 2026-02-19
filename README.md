@@ -1,2 +1,2 @@
-# study_gRPC_Client
+# study-grpc-client
 gRPC Client 구현
